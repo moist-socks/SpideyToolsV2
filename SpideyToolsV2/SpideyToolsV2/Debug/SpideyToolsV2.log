@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\thoma_737ag4c\1New folder\randomstuff\port\mods\SpideyToolsV2\src\memory\memory.h(8,19): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\thoma_737ag4c\1New folder\randomstuff\port\mods\SpideyToolsV2\src\memory\memory.h(10,18): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\thoma_737ag4c\1New folder\randomstuff\port\mods\SpideyToolsV2\src\memory\memory.h(11,18): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'src/main.cpp')
+  
+  memory.cpp
+C:\Users\thoma_737ag4c\1New folder\randomstuff\port\mods\SpideyToolsV2\src\memory\memory.h(8,19): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'src/memory/memory.cpp')
+  
+C:\Users\thoma_737ag4c\1New folder\randomstuff\port\mods\SpideyToolsV2\src\memory\memory.h(10,18): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'src/memory/memory.cpp')
+  
+C:\Users\thoma_737ag4c\1New folder\randomstuff\port\mods\SpideyToolsV2\src\memory\memory.h(11,18): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'src/memory/memory.cpp')
+  
+  Generating Code...

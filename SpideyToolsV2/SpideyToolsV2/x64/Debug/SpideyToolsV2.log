@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\thoma_737ag4c\1New folder\randomstuff\port\mods\SpideyToolsV2\src\main.cpp(33,29): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thoma_737ag4c\1New folder\randomstuff\port\mods\SpideyToolsV2\src\memory\memory.h(26,37): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/main.cpp')
+  C:\Users\thoma_737ag4c\1New folder\randomstuff\port\mods\SpideyToolsV2\src\memory\memory.h(26,37):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\thoma_737ag4c\1New folder\randomstuff\port\mods\SpideyToolsV2\src\main.cpp(36,13):
+  	see reference to function template instantiation 'void memory::Write<float>(DWORD,const T &)' being compiled
+          with
+          [
+              T=float
+          ]
+  
+  SpideyToolsV2.vcxproj -> C:\Users\thoma_737ag4c\1New folder\randomstuff\port\mods\SpideyToolsV2\x64\Debug\SpideyToolsV2.exe
